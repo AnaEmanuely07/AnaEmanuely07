@@ -2,6 +2,8 @@
 
 **AnaEmanuely07/AnaEmanuely07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Meu nome é Ana Emanuely, 1 ano "A", número 03
+<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/ad247ae3-3660-4952-a7b4-1d3687b9aeda" />
+
 
 Here are some ideas to get you started:
 
